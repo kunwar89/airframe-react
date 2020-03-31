@@ -1,5 +1,7 @@
 # Airframe React
 
+![CI](https://github.com/kunwar89/airframe-react/workflows/CI/badge.svg?branch=master)
+
 High Quality **Dashboard / Admin / Analytics template** that works great on any smartphone, tablet or desktop. Available as **Open Source as MIT license.**
 
 - [**View Demo**](http://dashboards.webkom.co/react/airframe/)
