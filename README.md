@@ -9,6 +9,7 @@
  Upstream Repo
  
  [![Total alerts](https://img.shields.io/lgtm/alerts/g/0wczar/airframe-react.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/0wczar/airframe-react/alerts/)
+ [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/0wczar/airframe-react.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/0wczar/airframe-react/context:javascript)
 
 High Quality **Dashboard / Admin / Analytics template** that works great on any smartphone, tablet or desktop. Available as **Open Source as MIT license.**
 
