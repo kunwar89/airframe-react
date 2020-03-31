@@ -7,6 +7,7 @@
  [![SonarCloud Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=kunwar89_airframe-react&metric=vulnerabilities)](https://sonarcloud.io/component_measures/metric/security_rating/list?id=kunwar89_airframe-react)
  
  Upstream Repo
+ 
  [![Total alerts](https://img.shields.io/lgtm/alerts/g/0wczar/airframe-react.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/0wczar/airframe-react/alerts/)
 
 High Quality **Dashboard / Admin / Analytics template** that works great on any smartphone, tablet or desktop. Available as **Open Source as MIT license.**
