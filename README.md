@@ -1,5 +1,5 @@
 # Airframe React
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![CI](https://github.com/kunwar89/airframe-react/workflows/CI/badge.svg?branch=master)
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=kunwar89_airframe-react&metric=alert_status)](https://sonarcloud.io/dashboard?id=kunwar89_airframe-react) 
