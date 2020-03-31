@@ -1,5 +1,4 @@
 # Airframe React
-# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![CI](https://github.com/kunwar89/airframe-react/workflows/CI/badge.svg?branch=master)
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=kunwar89_airframe-react&metric=alert_status)](https://sonarcloud.io/dashboard?id=kunwar89_airframe-react) 
@@ -8,6 +7,7 @@
  [![SonarCloud Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=kunwar89_airframe-react&metric=vulnerabilities)](https://sonarcloud.io/component_measures/metric/security_rating/list?id=kunwar89_airframe-react)
 
 The upstream repo is a High Quality **Dashboard / Admin / Analytics template** that works great on any smartphone, tablet or desktop.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/0wczar/airframe-react.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/0wczar/airframe-react/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/0wczar/airframe-react.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/0wczar/airframe-react/context:javascript)
 
