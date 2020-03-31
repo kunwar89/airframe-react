@@ -5,6 +5,8 @@
  [![SonarCloud Coverage](https://sonarcloud.io/api/project_badges/measure?project=kunwar89_airframe-react&metric=coverage)](https://sonarcloud.io/component_measures/metric/coverage/list?id=kunwar89_airframe-react)
  [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=kunwar89_airframe-react&metric=bugs)](https://sonarcloud.io/component_measures/metric/reliability_rating/list?id=kunwar89_airframe-react)
  [![SonarCloud Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=kunwar89_airframe-react&metric=vulnerabilities)](https://sonarcloud.io/component_measures/metric/security_rating/list?id=kunwar89_airframe-react)
+ 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 The upstream repo is a High Quality **Dashboard / Admin / Analytics template** that works great on any smartphone, tablet or desktop.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
